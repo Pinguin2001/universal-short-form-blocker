@@ -1,0 +1,20 @@
+! Title: universal-short-form-blocker
+! Description: Blocks all forms of short form content across various sites
+! Version: 2026.02.21
+! Last modified: 2026-02-21 11:00
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/Pinguin2001/universal-short-form-blocker
+! License: https://raw.githubusercontent.com/Pinguin2001/universal-short-form-blocker/main/LICENSE
+
+! <Instagram>
+
+! Sidebar
+www.instagram.com##.xc26acl.xh8yej3.x1iyjqo2 > div:nth-of-type(2)
+
+! Video in profile
+www.instagram.com##div.xg7l0n3.xl56j7k.xs83m0k.x1iyjqo2.x1r8uery.x78zum5.x6s0dn4.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div:nth-of-type(2)
+
+! Videos in feed
+www.instagram.com##video
+
+! </Instagram>
